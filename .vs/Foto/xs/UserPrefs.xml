@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{D13ACF4B-2D7B-4BB0-B0CA-B7D6E107A66C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/Resources/xml/file_paths.xml">
+    <Files>
+      <File FileName="packages/Xam.Plugin.Media.3.2.1/readme.txt" Line="55" Column="358" />
+      <File FileName="Droid/MainActivity.cs" Line="11" Column="39" />
+      <File FileName="Droid/MainApplication.cs" Line="60" Column="6" />
+      <File FileName="Foto/FotoPage.xaml" Line="15" Column="1" />
+      <File FileName="Foto/FotoPage.xaml.cs" Line="3" Column="20" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="15" Column="1" />
+      <File FileName="Droid/Resources/xml/file_paths.xml" Line="2" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Foto.Droid PreferredExecutionTarget="Android.520381cffad894eb" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Foto.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.E54572E0-8A35-4BC7-A791-99069E5EB421" FirstBuild="True">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Foto.iOS>
+</Properties>
